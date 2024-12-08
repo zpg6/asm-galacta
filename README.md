@@ -2,7 +2,11 @@
 
 This was probably my favorite Computer Science project in college, and I have been wanting to revisit it for a while.
 
-It is a simple game written in MIPS Assembly Language. The player controls a spaceship that can move left/right/up/down (arrow keys), and shoot bullets at the enemies (B). It is loosely based on the classic arcade game Galaga.
+It is a simple game written in MIPS Assembly Language, runnable cross-platform using a Java runtime. The player controls a spaceship that can move left/right/up/down (arrow keys), and shoot projectiles at the enemies (B). It is loosely based on the classic arcade game [Galaga](https://en.wikipedia.org/wiki/Galaga).
+
+Building this game was a great learning experience, and I am proud of the result to this day. About a year later was when I began learning app development in native iOS, and I can see now how this project was a stepping stone to that type of thinking.
+
+<br>
 
 ![Main Screen](./docs/00-gameplay.gif)
 
