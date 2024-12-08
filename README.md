@@ -60,3 +60,13 @@ git clone https://github.com/zpg6/asm-galacta.git
 <br><br><br>
 ![Main Screen](./docs/06-main-screen.png)
 <br><br><br>
+
+### 5. Play the game!
+
+Use the arrow keys to move the spaceship and the B key to shoot. Try to get the highest score you can!
+
+If you lose a life, collect a falling health orb to restore one.
+
+<br>
+
+![Extra Lives](./docs/07-extra-lives.gif)
